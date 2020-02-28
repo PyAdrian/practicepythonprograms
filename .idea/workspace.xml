@@ -37,8 +37,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.areaofcircle">
-    <configuration name="Simpleinterest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.cubesumofnnatural2">
+    <configuration name="cubesumofnnatural" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonpractices" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -50,7 +50,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Simpleinterest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cubesumofnnatural.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -59,7 +59,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="areaofcircle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="cubesumofnnatural1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonpractices" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,7 +71,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/areaofcircle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cubesumofnnatural1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="armstrong" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="cubesumofnnatural2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonpractices" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,7 +92,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/armstrong.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cubesumofnnatural2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="compoundinterest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sumofsquares2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonpractices" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,7 +113,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/compoundinterest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sumofsquares2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ntharmstrong" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sumofsquares3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonpractices" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,7 +134,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ntharmstrong.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sumofsquares3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.areaofcircle" />
-        <item itemvalue="Python.ntharmstrong" />
-        <item itemvalue="Python.armstrong" />
-        <item itemvalue="Python.compoundinterest" />
-        <item itemvalue="Python.Simpleinterest" />
+        <item itemvalue="Python.cubesumofnnatural2" />
+        <item itemvalue="Python.cubesumofnnatural1" />
+        <item itemvalue="Python.cubesumofnnatural" />
+        <item itemvalue="Python.sumofsquares3" />
+        <item itemvalue="Python.sumofsquares2" />
       </list>
     </recent_temporary>
   </component>
